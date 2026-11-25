@@ -1,0 +1,137 @@
+2026-10-14 00:10:07,699 [WARNING]  * Debugger is active!
+2026-10-14 00:10:07,702 [INFO]  * Debugger PIN: 750-012-518
+2026-10-14 00:10:09,733 [INFO]  * Detected change in '/home/abinash/Documents/abinash/erp/python2412/python2412/FlaskProject/Routes/erp_api.py', reloading
+2026-10-14 00:10:10,567 [WARNING]  * Debugger is active!
+2026-10-14 00:10:10,597 [INFO]  * Debugger PIN: 750-012-518
+2026-10-14 00:10:11,626 [INFO]  * Detected change in '/home/abinash/Documents/abinash/erp/python2412/python2412/FlaskProject/Routes/erp_api.py', reloading
+2026-10-14 00:10:12,320 [WARNING]  * Debugger is active!
+2026-10-14 00:10:12,324 [INFO]  * Debugger PIN: 750-012-518
+2026-10-14 00:10:33,443 [INFO]  * Detected change in '/home/abinash/Documents/abinash/erp/python2412/python2412/FlaskProject/Routes/erp_api.py', reloading
+2026-10-14 00:10:34,310 [WARNING]  * Debugger is active!
+2026-10-14 00:10:34,315 [INFO]  * Debugger PIN: 750-012-518
+2026-10-14 00:13:27,296 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:27] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:13:27,303 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:27] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:13:34,208 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:34] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:13:34,219 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:34] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:13:34,900 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:34] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:13:34,909 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:34] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:13:34,975 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:34] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:13:34,981 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:34] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:13:38,124 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:38] "[31m[1mGET /api/devices HTTP/1.1[0m" 401 -
+2026-10-14 00:13:38,131 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:38] "[31m[1mGET /api/devices HTTP/1.1[0m" 401 -
+2026-10-14 00:13:38,943 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:38] "[31m[1mGET /api/persons HTTP/1.1[0m" 401 -
+2026-10-14 00:13:38,947 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:38] "[31m[1mGET /api/persons HTTP/1.1[0m" 401 -
+2026-10-14 00:13:39,701 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:39] "[31m[1mGET /api/records?limit=100 HTTP/1.1[0m" 401 -
+2026-10-14 00:13:39,710 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:39] "[31m[1mGET /api/records?limit=100 HTTP/1.1[0m" 401 -
+2026-10-14 00:13:40,560 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:40] "[31m[1mGET /api/access-days HTTP/1.1[0m" 401 -
+2026-10-14 00:13:40,563 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:40] "[31m[1mGET /api/commands HTTP/1.1[0m" 401 -
+2026-10-14 00:13:40,566 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:40] "[31m[1mGET /api/access-days HTTP/1.1[0m" 401 -
+2026-10-14 00:13:40,569 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:40] "[31m[1mGET /api/commands HTTP/1.1[0m" 401 -
+2026-10-14 00:13:46,050 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:46] "[31m[1mGET /api/devices HTTP/1.1[0m" 401 -
+2026-10-14 00:13:46,055 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:46] "[31m[1mGET /api/devices HTTP/1.1[0m" 401 -
+2026-10-14 00:13:49,683 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:49] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:13:49,689 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:49] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:13:51,788 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:51] "[31m[1mGET /api/persons HTTP/1.1[0m" 401 -
+2026-10-14 00:13:51,792 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:51] "[31m[1mGET /api/persons HTTP/1.1[0m" 401 -
+2026-10-14 00:13:54,141 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:54] "[31m[1mGET /api/devices HTTP/1.1[0m" 401 -
+2026-10-14 00:13:54,145 [INFO] 127.0.0.1 - - [14/Oct/2026 00:13:54] "[31m[1mGET /api/devices HTTP/1.1[0m" 401 -
+2026-10-14 00:14:08,047 [INFO] 127.0.0.1 - - [14/Oct/2026 00:14:08] "[31m[1mGET /api/records?limit=100 HTTP/1.1[0m" 401 -
+2026-10-14 00:14:08,051 [INFO] 127.0.0.1 - - [14/Oct/2026 00:14:08] "[31m[1mGET /api/records?limit=100 HTTP/1.1[0m" 401 -
+2026-10-14 00:14:12,084 [INFO] 127.0.0.1 - - [14/Oct/2026 00:14:12] "[31m[1mGET /api/persons HTTP/1.1[0m" 401 -
+2026-10-14 00:14:12,088 [INFO] 127.0.0.1 - - [14/Oct/2026 00:14:12] "[31m[1mGET /api/persons HTTP/1.1[0m" 401 -
+2026-10-14 00:14:17,931 [INFO] 127.0.0.1 - - [14/Oct/2026 00:14:17] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:14:17,964 [INFO] 127.0.0.1 - - [14/Oct/2026 00:14:17] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:15:05,666 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://10.89.17.129:7788
+2026-10-14 00:15:05,666 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-14 00:15:05,667 [INFO]  * Restarting with stat
+2026-10-14 00:15:06,323 [WARNING]  * Debugger is active!
+2026-10-14 00:15:06,331 [INFO]  * Debugger PIN: 750-012-518
+2026-10-14 00:15:28,650 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://10.89.17.129:7788
+2026-10-14 00:15:28,651 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-14 00:15:28,651 [INFO]  * Restarting with stat
+2026-10-14 00:15:29,148 [WARNING]  * Debugger is active!
+2026-10-14 00:15:29,152 [INFO]  * Debugger PIN: 750-012-518
+2026-10-14 00:15:55,502 [INFO] 127.0.0.1 - - [14/Oct/2026 00:15:55] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:15:55,517 [INFO] 127.0.0.1 - - [14/Oct/2026 00:15:55] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:15:59,403 [INFO] 127.0.0.1 - - [14/Oct/2026 00:15:59] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:15:59,425 [INFO] 127.0.0.1 - - [14/Oct/2026 00:15:59] "[31m[1mGET /api/dashboard HTTP/1.1[0m" 401 -
+2026-10-14 00:16:42,543 [INFO] 127.0.0.1 - - [14/Oct/2026 00:16:42] "[35m[1mOPTIONS /api/health HTTP/1.1[0m" 204 -
+2026-10-14 00:16:42,549 [INFO] 127.0.0.1 - - [14/Oct/2026 00:16:42] "GET /api/health HTTP/1.1" 200 -
+2026-10-14 00:25:30,632 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:30] "[35m[1mOPTIONS /api/health HTTP/1.1[0m" 204 -
+2026-10-14 00:25:30,639 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:30] "GET /api/health HTTP/1.1" 200 -
+2026-10-14 00:25:31,615 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:31] "GET /api/health HTTP/1.1" 200 -
+2026-10-14 00:25:31,795 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:31] "GET /api/health HTTP/1.1" 200 -
+2026-10-14 00:25:33,665 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:33] "[35m[1mOPTIONS /api/dashboard HTTP/1.1[0m" 204 -
+2026-10-14 00:25:33,667 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:33] "[35m[1mOPTIONS /api/dashboard HTTP/1.1[0m" 204 -
+2026-10-14 00:25:33,727 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:33] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 00:25:33,752 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:33] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 00:25:36,714 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:36] "GET /api/health HTTP/1.1" 200 -
+2026-10-14 00:25:36,735 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:36] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 00:25:36,756 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:36] "GET /api/devices HTTP/1.1" 200 -
+2026-10-14 00:25:39,926 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:39] "[35m[1mOPTIONS /api/health HTTP/1.1[0m" 204 -
+2026-10-14 00:25:39,932 [INFO] 127.0.0.1 - - [14/Oct/2026 00:25:39] "GET /api/health HTTP/1.1" 200 -
+2026-10-14 00:28:07,282 [INFO] 127.0.0.1 - - [14/Oct/2026 00:28:07] "[31m[1mGET /api/health HTTP/1.1[0m" 401 -
+2026-10-14 00:28:14,497 [INFO] 127.0.0.1 - - [14/Oct/2026 00:28:14] "[31m[1mGET /api/health HTTP/1.1[0m" 401 -
+2026-10-14 00:28:19,103 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://10.89.17.129:7788
+2026-10-14 00:28:19,103 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-14 00:28:19,104 [INFO]  * Restarting with stat
+2026-10-14 00:28:19,609 [WARNING]  * Debugger is active!
+2026-10-14 00:28:19,613 [INFO]  * Debugger PIN: 750-012-518
+2026-10-14 00:28:48,898 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://10.89.17.129:7788
+2026-10-14 00:28:48,899 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-14 00:28:48,899 [INFO]  * Restarting with stat
+2026-10-14 00:28:49,380 [WARNING]  * Debugger is active!
+2026-10-14 00:28:49,384 [INFO]  * Debugger PIN: 750-012-518
+2026-10-14 00:30:06,076 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://10.89.17.129:7788
+2026-10-14 00:30:06,077 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-14 00:30:06,077 [INFO]  * Restarting with stat
+2026-10-14 00:30:06,557 [WARNING]  * Debugger is active!
+2026-10-14 00:30:06,561 [INFO]  * Debugger PIN: 750-012-518
+2026-10-14 00:31:28,461 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://10.89.17.129:7788
+2026-10-14 00:31:28,462 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-14 00:31:28,463 [INFO]  * Restarting with stat
+2026-10-14 00:31:28,983 [WARNING]  * Debugger is active!
+2026-10-14 00:31:28,986 [INFO]  * Debugger PIN: 750-012-518
+2026-10-14 00:31:45,255 [INFO] 127.0.0.1 - - [14/Oct/2026 00:31:45] "[31m[1mGET /api/health HTTP/1.1[0m" 401 -
+2026-10-14 00:31:48,727 [INFO] 127.0.0.1 - - [14/Oct/2026 00:31:48] "GET /api/health HTTP/1.1" 200 -
+2026-10-14 00:31:48,757 [INFO] 127.0.0.1 - - [14/Oct/2026 00:31:48] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 00:31:48,783 [INFO] 127.0.0.1 - - [14/Oct/2026 00:31:48] "GET /api/devices HTTP/1.1" 200 -
+2026-10-14 00:32:32,625 [INFO] 127.0.0.1 - - [14/Oct/2026 00:32:32] "[35m[1mOPTIONS /api/dashboard HTTP/1.1[0m" 204 -
+2026-10-14 00:32:32,629 [INFO] 127.0.0.1 - - [14/Oct/2026 00:32:32] "[35m[1mOPTIONS /api/dashboard HTTP/1.1[0m" 204 -
+2026-10-14 00:32:32,690 [INFO] 127.0.0.1 - - [14/Oct/2026 00:32:32] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 00:32:32,712 [INFO] 127.0.0.1 - - [14/Oct/2026 00:32:32] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 00:32:35,777 [INFO] 127.0.0.1 - - [14/Oct/2026 00:32:35] "[35m[1mOPTIONS /api/health HTTP/1.1[0m" 204 -
+2026-10-14 00:32:35,781 [INFO] 127.0.0.1 - - [14/Oct/2026 00:32:35] "GET /api/health HTTP/1.1" 200 -
+2026-10-14 22:27:04,858 [INFO] 127.0.0.1 - - [14/Oct/2026 22:27:04] "[35m[1mOPTIONS /api/dashboard HTTP/1.1[0m" 204 -
+2026-10-14 22:27:04,905 [INFO] 127.0.0.1 - - [14/Oct/2026 22:27:04] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 22:27:04,925 [INFO] 127.0.0.1 - - [14/Oct/2026 22:27:04] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 22:29:07,896 [INFO] 127.0.0.1 - - [14/Oct/2026 22:29:07] "[35m[1mOPTIONS /api/dashboard HTTP/1.1[0m" 204 -
+2026-10-14 22:29:07,905 [INFO] 127.0.0.1 - - [14/Oct/2026 22:29:07] "[35m[1mOPTIONS /api/dashboard HTTP/1.1[0m" 204 -
+2026-10-14 22:29:07,933 [INFO] 127.0.0.1 - - [14/Oct/2026 22:29:07] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 22:29:07,973 [INFO] 127.0.0.1 - - [14/Oct/2026 22:29:07] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 22:29:11,047 [INFO] 127.0.0.1 - - [14/Oct/2026 22:29:11] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 22:29:11,067 [INFO] 127.0.0.1 - - [14/Oct/2026 22:29:11] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-14 22:29:55,657 [INFO] 127.0.0.1 - - [14/Oct/2026 22:29:55] "[35m[1mOPTIONS /api/health HTTP/1.1[0m" 204 -
+2026-10-14 22:29:55,661 [INFO] 127.0.0.1 - - [14/Oct/2026 22:29:55] "GET /api/health HTTP/1.1" 200 -
+2026-10-15 22:24:50,794 [INFO] 127.0.0.1 - - [15/Oct/2026 22:24:50] "[35m[1mOPTIONS /api/dashboard HTTP/1.1[0m" 204 -
+2026-10-15 22:24:50,796 [INFO] 127.0.0.1 - - [15/Oct/2026 22:24:50] "[35m[1mOPTIONS /api/dashboard HTTP/1.1[0m" 204 -
+2026-10-15 22:24:50,865 [INFO] 127.0.0.1 - - [15/Oct/2026 22:24:50] "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-15 22:24:50,900 [INFO] 127.0.0.1 - - [15/Oct/2026 22:24:50] "GET /api/dashboard HTTP/1.1" 200 -

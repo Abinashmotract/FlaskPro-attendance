@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "usr_bc63a7ed82ea",
+      "name": "Abinash",
+      "email": "abinas.h0870@gmail.com",
+      "role": "admin",
+      "salt": "4c83bc75a79cde9e736c30590a01258c",
+      "passwordHash": "bf8dd0db50eb1187265c8455641c091f1d73c58ff6fbebadf0ee25d7723f42a4",
+      "createdAt": "2026-11-25 01:22:17"
+    }
+  ]
+}

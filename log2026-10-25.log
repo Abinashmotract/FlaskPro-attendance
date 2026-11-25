@@ -1,0 +1,27 @@
+2026-10-25 17:31:48,053 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://192.168.14.131:7788
+2026-10-25 17:31:48,053 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-25 17:31:48,055 [INFO]  * Restarting with stat
+2026-10-25 17:31:48,922 [WARNING]  * Debugger is active!
+2026-10-25 17:31:48,934 [INFO]  * Debugger PIN: 335-658-569
+2026-10-25 17:33:14,475 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://192.168.14.131:7788
+2026-10-25 17:33:14,475 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-25 17:33:14,476 [INFO]  * Restarting with stat
+2026-10-25 17:33:14,880 [WARNING]  * Debugger is active!
+2026-10-25 17:33:14,881 [INFO]  * Debugger PIN: 908-025-682
+2026-10-25 17:33:24,778 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:24] "GET / HTTP/1.1" 200 -
+2026-10-25 17:33:24,852 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:24] "[36mGET /static/js/jquery-1.12.4.min.js HTTP/1.1[0m" 304 -
+2026-10-25 17:33:24,853 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:24] "[36mGET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2026-10-25 17:33:24,856 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:24] "[33mGET /static/js/locales/bootstrap-datetimepicker.zh-CN.js HTTP/1.1[0m" 404 -
+2026-10-25 17:33:24,857 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:24] "[36mGET /static/bootstrap-3.3.7-dist/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2026-10-25 17:33:24,859 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:24] "[36mGET /static/js/bootstrap-datetimepicker.min.js HTTP/1.1[0m" 304 -
+2026-10-25 17:33:25,140 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-25 17:33:25,249 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:25] "[35m[1mGET /device HTTP/1.1[0m" 500 -
+2026-10-25 17:33:25,256 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:25] "[35m[1mGET /emps?pn=1 HTTP/1.1[0m" 500 -
+2026-10-25 17:33:29,789 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:29] "[35m[1mGET /accessDays HTTP/1.1[0m" 500 -
+2026-10-25 17:33:45,568 [INFO] 127.0.0.1 - - [25/Oct/2026 17:33:45] "[35m[1mGET /enrollInfo HTTP/1.1[0m" 500 -

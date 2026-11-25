@@ -1,0 +1,153 @@
+2026-10-13 22:53:19,880 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://192.168.1.48:7788
+2026-10-13 22:53:19,880 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-13 22:53:19,881 [INFO]  * Restarting with stat
+2026-10-13 22:53:20,363 [WARNING]  * Debugger is active!
+2026-10-13 22:53:20,373 [INFO]  * Debugger PIN: 996-539-032
+2026-10-13 22:53:20,381 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:20] "[33mGET /json/version HTTP/1.1[0m" 404 -
+2026-10-13 22:53:20,397 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:20] "GET / HTTP/1.1" 200 -
+2026-10-13 22:53:20,697 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:20] "GET / HTTP/1.1" 200 -
+2026-10-13 22:53:20,737 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:20] "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+2026-10-13 22:53:20,738 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:20] "GET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css HTTP/1.1" 200 -
+2026-10-13 22:53:20,739 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:20] "[33mGET /static/js/locales/bootstrap-datetimepicker.zh-CN.js HTTP/1.1[0m" 404 -
+2026-10-13 22:53:20,740 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:20] "GET /static/bootstrap-3.3.7-dist/js/bootstrap.min.js HTTP/1.1" 200 -
+2026-10-13 22:53:20,742 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:20] "GET /static/js/bootstrap-datetimepicker.min.js HTTP/1.1" 200 -
+2026-10-13 22:53:22,102 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:22] "[35m[1mGET /device HTTP/1.1[0m" 500 -
+2026-10-13 22:53:22,111 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:22] "[35m[1mGET /emps?pn=1 HTTP/1.1[0m" 500 -
+2026-10-13 22:53:29,929 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:29] "[31m[1mGET /api/health HTTP/1.1[0m" 401 -
+2026-10-13 22:53:33,103 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:33] "GET / HTTP/1.1" 200 -
+2026-10-13 22:53:33,290 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:33] "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+2026-10-13 22:53:33,315 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:33] "GET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css HTTP/1.1" 200 -
+2026-10-13 22:53:33,318 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:33] "GET /static/bootstrap-3.3.7-dist/js/bootstrap.min.js HTTP/1.1" 200 -
+2026-10-13 22:53:33,350 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:33] "GET /static/js/bootstrap-datetimepicker.min.js HTTP/1.1" 200 -
+2026-10-13 22:53:33,353 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:33] "[33mGET /static/js/locales/bootstrap-datetimepicker.zh-CN.js HTTP/1.1[0m" 404 -
+2026-10-13 22:53:34,009 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:34] "[35m[1mGET /device HTTP/1.1[0m" 500 -
+2026-10-13 22:53:34,026 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:34] "[35m[1mGET /emps?pn=1 HTTP/1.1[0m" 500 -
+2026-10-13 22:53:34,063 [INFO] 127.0.0.1 - - [13/Oct/2026 22:53:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-13 22:54:16,658 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://192.168.1.48:7788
+2026-10-13 22:54:16,658 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-13 22:54:16,658 [INFO]  * Restarting with stat
+2026-10-13 22:54:17,066 [WARNING]  * Debugger is active!
+2026-10-13 22:54:17,069 [INFO]  * Debugger PIN: 750-012-518
+2026-10-13 22:54:28,606 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:28] "GET / HTTP/1.1" 200 -
+2026-10-13 22:54:28,763 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:28] "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+2026-10-13 22:54:28,770 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:28] "[33mGET /static/js/locales/bootstrap-datetimepicker.zh-CN.js HTTP/1.1[0m" 404 -
+2026-10-13 22:54:28,771 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:28] "GET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css HTTP/1.1" 200 -
+2026-10-13 22:54:28,772 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:28] "GET /static/bootstrap-3.3.7-dist/js/bootstrap.min.js HTTP/1.1" 200 -
+2026-10-13 22:54:28,775 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:28] "GET /static/js/bootstrap-datetimepicker.min.js HTTP/1.1" 200 -
+2026-10-13 22:54:29,055 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-13 22:54:29,089 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:29] "[35m[1mGET /device HTTP/1.1[0m" 500 -
+2026-10-13 22:54:29,109 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:29] "[35m[1mGET /emps?pn=1 HTTP/1.1[0m" 500 -
+2026-10-13 22:54:35,209 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:35] "GET /logRecords?deviceSn= HTTP/1.1" 200 -
+2026-10-13 22:54:35,250 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:35] "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+2026-10-13 22:54:35,258 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:35] "GET /static/bootstrap-3.3.7-dist/js/bootstrap.min.js HTTP/1.1" 200 -
+2026-10-13 22:54:35,259 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:35] "GET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css HTTP/1.1" 200 -
+2026-10-13 22:54:35,420 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:35] "[35m[1mGET /records?pn=1 HTTP/1.1[0m" 500 -
+2026-10-13 22:54:44,734 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:44] "[35m[1mGET /getAllLog?deviceSn= HTTP/1.1[0m" 500 -
+2026-10-13 22:54:48,427 [INFO] 127.0.0.1 - - [13/Oct/2026 22:54:48] "[35m[1mGET /getNewLog?deviceSn= HTTP/1.1[0m" 500 -
+2026-10-13 22:55:13,682 [INFO] 127.0.0.1 - - [13/Oct/2026 22:55:13] "[35m[1mGET /setUsernameToDevice?deviceSn= HTTP/1.1[0m" 500 -
+2026-10-13 22:56:42,641 [INFO] 127.0.0.1 - - [13/Oct/2026 22:56:42] "[35m[1mGET /device HTTP/1.1[0m" 500 -
+2026-10-13 23:01:25,572 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://192.168.1.48:7788
+2026-10-13 23:01:25,572 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-13 23:01:25,573 [INFO]  * Restarting with stat
+2026-10-13 23:01:26,089 [WARNING]  * Debugger is active!
+2026-10-13 23:01:26,097 [INFO]  * Debugger PIN: 750-012-518
+2026-10-13 23:03:19,780 [INFO] 127.0.0.1 - - [13/Oct/2026 23:03:19] "[35m[1mGET /sendWs?deviceSn= HTTP/1.1[0m" 500 -
+2026-10-13 23:16:34,602 [INFO] 127.0.0.1 - - [13/Oct/2026 23:16:34] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:16:34,682 [INFO] 127.0.0.1 - - [13/Oct/2026 23:16:34] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:16:53,527 [INFO] 127.0.0.1 - - [13/Oct/2026 23:16:53] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:16:53,573 [INFO] 127.0.0.1 - - [13/Oct/2026 23:16:53] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:17:19,482 [INFO] 127.0.0.1 - - [13/Oct/2026 23:17:19] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:17:19,529 [INFO] 127.0.0.1 - - [13/Oct/2026 23:17:19] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:18:11,622 [INFO] 127.0.0.1 - - [13/Oct/2026 23:18:11] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:18:11,664 [INFO] 127.0.0.1 - - [13/Oct/2026 23:18:11] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:20:02,003 [INFO] 127.0.0.1 - - [13/Oct/2026 23:20:02] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:20:02,068 [INFO] 127.0.0.1 - - [13/Oct/2026 23:20:02] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:35:34,032 [INFO] 127.0.0.1 - - [13/Oct/2026 23:35:34] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:35:34,065 [INFO] 127.0.0.1 - - [13/Oct/2026 23:35:34] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:35:58,524 [INFO] 127.0.0.1 - - [13/Oct/2026 23:35:58] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:35:58,570 [INFO] 127.0.0.1 - - [13/Oct/2026 23:35:58] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:36:21,124 [INFO] 127.0.0.1 - - [13/Oct/2026 23:36:21] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:36:21,157 [INFO] 127.0.0.1 - - [13/Oct/2026 23:36:21] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:36:48,896 [INFO] 127.0.0.1 - - [13/Oct/2026 23:36:48] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:36:48,942 [INFO] 127.0.0.1 - - [13/Oct/2026 23:36:48] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:36:54,892 [INFO] 127.0.0.1 - - [13/Oct/2026 23:36:54] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:36:54,925 [INFO] 127.0.0.1 - - [13/Oct/2026 23:36:54] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:37:00,027 [INFO] 127.0.0.1 - - [13/Oct/2026 23:37:00] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:37:00,055 [INFO] 127.0.0.1 - - [13/Oct/2026 23:37:00] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:39:26,652 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:26] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:39:26,676 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:26] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:39:42,346 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:42] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:39:42,371 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:42] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:39:43,792 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:43] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:39:43,838 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:43] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:39:43,964 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:43] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:39:43,989 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:43] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:39:44,895 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:44] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:39:44,937 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:44] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:39:46,132 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:46] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:39:46,178 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:46] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:39:46,295 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:46] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:39:46,320 [INFO] 127.0.0.1 - - [13/Oct/2026 23:39:46] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:40:26,727 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:26] "GET / HTTP/1.1" 200 -
+2026-10-13 23:40:26,840 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:26] "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+2026-10-13 23:40:26,854 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:26] "GET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css HTTP/1.1" 200 -
+2026-10-13 23:40:26,859 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:26] "GET /static/js/bootstrap-datetimepicker.min.js HTTP/1.1" 200 -
+2026-10-13 23:40:26,861 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:26] "GET /static/bootstrap-3.3.7-dist/js/bootstrap.min.js HTTP/1.1" 200 -
+2026-10-13 23:40:26,893 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:26] "[33mGET /static/js/locales/bootstrap-datetimepicker.zh-CN.js HTTP/1.1[0m" 404 -
+2026-10-13 23:40:27,945 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:27] "[35m[1mGET /emps?pn=1 HTTP/1.1[0m" 500 -
+2026-10-13 23:40:27,948 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:27] "[35m[1mGET /device HTTP/1.1[0m" 500 -
+2026-10-13 23:40:27,968 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-13 23:40:29,752 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:29] "GET / HTTP/1.1" 200 -
+2026-10-13 23:40:29,807 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:29] "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 -
+2026-10-13 23:40:29,816 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:29] "GET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css HTTP/1.1" 200 -
+2026-10-13 23:40:29,821 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:29] "GET /static/bootstrap-3.3.7-dist/js/bootstrap.min.js HTTP/1.1" 200 -
+2026-10-13 23:40:29,826 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:29] "GET /static/js/bootstrap-datetimepicker.min.js HTTP/1.1" 200 -
+2026-10-13 23:40:29,828 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:29] "[33mGET /static/js/locales/bootstrap-datetimepicker.zh-CN.js HTTP/1.1[0m" 404 -
+2026-10-13 23:40:30,218 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-13 23:40:30,259 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:30] "[35m[1mGET /emps?pn=1 HTTP/1.1[0m" 500 -
+2026-10-13 23:40:30,272 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:30] "[35m[1mGET /device HTTP/1.1[0m" 500 -
+2026-10-13 23:40:34,201 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:34] "[35m[1mGET /sendWs?deviceSn= HTTP/1.1[0m" 500 -
+2026-10-13 23:40:37,812 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:37] "[35m[1mGET /getUserInfo?deviceSn= HTTP/1.1[0m" 500 -
+2026-10-13 23:40:40,873 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:40] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-10-13 23:40:40,994 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:40] "[36mGET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2026-10-13 23:40:41,305 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:41] "GET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2026-10-13 23:40:47,039 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:47] "GET / HTTP/1.1" 200 -
+2026-10-13 23:40:47,192 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:47] "[36mGET /static/js/jquery-1.12.4.min.js HTTP/1.1[0m" 304 -
+2026-10-13 23:40:47,218 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:47] "[36mGET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2026-10-13 23:40:47,220 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:47] "[33mGET /static/js/locales/bootstrap-datetimepicker.zh-CN.js HTTP/1.1[0m" 404 -
+2026-10-13 23:40:47,224 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:47] "[36mGET /static/bootstrap-3.3.7-dist/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2026-10-13 23:40:47,230 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:47] "[36mGET /static/js/bootstrap-datetimepicker.min.js HTTP/1.1[0m" 304 -
+2026-10-13 23:40:47,256 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:47] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-10-13 23:40:47,396 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:47] "[36mGET /static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map HTTP/1.1[0m" 304 -
+2026-10-13 23:40:47,531 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:47] "[35m[1mGET /device HTTP/1.1[0m" 500 -
+2026-10-13 23:40:47,713 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:47] "[35m[1mGET /emps?pn=1 HTTP/1.1[0m" 500 -
+2026-10-13 23:40:51,501 [INFO] 127.0.0.1 - - [13/Oct/2026 23:40:51] "[35m[1mGET /sendWs?deviceSn= HTTP/1.1[0m" 500 -
+2026-10-13 23:41:45,247 [INFO] 127.0.0.1 - - [13/Oct/2026 23:41:45] "[35m[1mGET /device HTTP/1.1[0m" 500 -
+2026-10-13 23:44:38,517 [INFO] 127.0.0.1 - - [13/Oct/2026 23:44:38] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:44:38,564 [INFO] 127.0.0.1 - - [13/Oct/2026 23:44:38] "[35m[1mGET /device HTTP/1.1[0m" 500 -
+2026-10-13 23:45:17,988 [INFO] 127.0.0.1 - - [13/Oct/2026 23:45:17] "GET /api/health HTTP/1.1" 200 -
+2026-10-13 23:45:18,020 [INFO] 127.0.0.1 - - [13/Oct/2026 23:45:18] "[35m[1mGET /api/devices HTTP/1.1[0m" 500 -
+2026-10-13 23:55:22,275 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7788
+ * Running on http://10.89.17.129:7788
+2026-10-13 23:55:22,276 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-13 23:55:22,277 [INFO]  * Restarting with stat
+2026-10-13 23:55:22,702 [WARNING]  * Debugger is active!
+2026-10-13 23:55:22,713 [INFO]  * Debugger PIN: 750-012-518
+2026-10-13 23:56:07,069 [INFO] 127.0.0.1 - - [13/Oct/2026 23:56:07] "[31m[1mGET /api/health HTTP/1.1[0m" 401 -
+2026-10-13 23:56:07,258 [INFO] 127.0.0.1 - - [13/Oct/2026 23:56:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-14 00:10:06,309 [INFO]  * Detected change in '/home/abinash/Documents/abinash/erp/python2412/python2412/FlaskProject/Routes/erp_api.py', reloading
+2026-10-14 00:10:06,562 [INFO]  * Restarting with stat
+2026-10-14 00:10:09,918 [INFO]  * Restarting with stat
+2026-10-14 00:10:11,793 [INFO]  * Restarting with stat
+2026-10-14 00:10:33,677 [INFO]  * Restarting with stat

@@ -1,0 +1,41 @@
+{
+  "mode": "direct",
+  "endpoints": [
+    {
+      "id": "wh_3dce607a05",
+      "name": "ERP attendance",
+      "active": true,
+      "method": "POST",
+      "url": "http://127.0.0.1:8000/api/webhooks/timmy",
+      "description": "Forwards each punch to the school ERP.",
+      "contentType": "application/json",
+      "events": [
+        "attendance"
+      ],
+      "deviceSerials": [],
+      "authType": "header",
+      "authHeader": "x-timmy-secret",
+      "authSecret": "fsdhfsdhfdsjfhsdfhsdjfhsdkfjs",
+      "authUser": "",
+      "authPassword": "",
+      "customHeaders": "{}",
+      "payloadTemplate": "",
+      "includePhoto": false,
+      "successCodes": "200,201,204",
+      "responseMapping": false,
+      "responseField": "",
+      "responseValue": "",
+      "retries": 3,
+      "retryDelayMs": 1000,
+      "timeoutMs": 8000,
+      "timeout": 8,
+      "hmacSecret": "",
+      "timezoneOffset": false,
+      "successCount": 0,
+      "failCount": 2,
+      "consecutiveFails": 2,
+      "lastStatus": 0,
+      "lastTriggered": "2026-11-25 01:23:31"
+    }
+  ]
+}
